@@ -386,7 +386,7 @@ footer,
 	background-color: #515f67;
 }
 .video-holder{
-	float: right;
+	margin-top: 20px;
 }
 .social-btns button,
 .default button{

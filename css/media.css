@@ -26,7 +26,9 @@
     margin: 20px 0;
   }
   .item{
-    padding-left: 25px !important;
+    text-align: center;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
   }
   .video-holder{
     float: none;
@@ -34,6 +36,9 @@
   }
   .name-form .form-group{
     padding-right: 0;
+  }
+  .item img{
+    width: 100%;
   }
 }
 
@@ -83,6 +88,7 @@
   .top-wrap{
     height: 100px;
   }
+
 }
 
 /* Custom, iPhone Retina */

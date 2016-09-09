@@ -499,6 +499,10 @@ footer .menu li a:hover p {
 	border: none;
 	border-left: 2px solid #515f67;
 }
+.fixed {
+	position:fixed;
+	width:100%;
+}
 /*BOOTSTRAP*/
 .form-group{
 	padding-left: 0;
@@ -530,5 +534,8 @@ footer .menu li a:hover p {
 }
 .dropdown-menu li p{
 	margin: 10px;
+}
+.dropdown-menu{
+	right: 0;
 }
 /*BOOTSTRAP*/
